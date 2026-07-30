@@ -11,12 +11,23 @@ def main() -> None:
 
     artists = set()
 
+    blocked_phrases = [
+        "starred",
+        "songs to slowly lose your mind in isolation to",
+        "christmas",
+        "weekend mix",
+        "budew",
+        "oh lawd she chugging",
+        "ms. rachel",
+        "peppa pig",
+    ]
+
     with input_file.open("r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f, delimiter="\t", quoting=csv.QUOTE_NONE)
 
         for row in reader:
             playlist = (row.get("playlist") or "").strip().lower()
-            if "starred" in playlist or "check out" in playlist:
+            if any(phrase in playlist for phrase in blocked_phrases):
                 continue
 
             artist = (row.get("artists") or "").strip()
