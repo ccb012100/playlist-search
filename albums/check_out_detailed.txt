@@ -1,0 +1,157 @@
+artists	album	track_count	release_date	added_at	playlist
+モダーン・ジャズ・オール・スターズ	オール・スター・シリーズ 第3集 "モダーン・ジャズ編"	11	1958	2025-09-22 13:31:46	= Instrumental - check out
+菊池ひみこ	FLYING BEAGLE	8	1987	2025-09-21 21:52:59	= Instrumental - check out
+猪俣 猛	Drum Method	12	1972	2025-09-22 13:29:48	= Instrumental - check out
+A Produce	Inscape & Landscape	11	1996	2025-12-12 19:00:39	= Instrumental - check out
+Adi Oasis	Lotus Glow	14	2023	2025-12-05 16:22:19	> Vocal - check out
+Air	Love 2	15	2009	2025-12-10 20:35:38	> Vocal - check out
+Anais Chantal	Recipe	5	2024	2025-09-24 14:56:36	> Vocal - check out
+Art Davis Quartet	Life	4	1986	2025-10-07 19:17:05	= Instrumental - check out
+Art Tatum	Piano Starts Here	13	1933	2026-01-08 20:10:43	= Instrumental - check out
+Art Taylor	Taylor's Tenors	6	2012	2025-09-10 19:21:22	= Instrumental - check out
+Arthur Taylor	Taylor's Wailers	6	1957	2025-09-10 19:21:26	= Instrumental - check out
+Asylum Choir	Look Inside The Asylum Choir (Expanded Edition)	17	1971	2025-12-02 16:57:19	> Vocal - check out
+Atomic Mosquitos	Atomic Mosquitos	13	2002	2025-08-22 16:32:50	surf - check out
+Banks & Hampton	Passport to Ecstasy	13	1977	2025-09-25 13:53:25	> Vocal - check out
+Barefoot Jerry	Southern Delight/Barefoot Jerry	21	2010	2025-12-10 20:46:55	> Vocal - check out
+Bettye Crutcher	Long As You Love Me (Deluxe Edition)	16	2014	2025-09-25 13:58:18	> Vocal - check out
+Billie Holiday	Solitude	12	1956	2025-12-10 18:17:46	> Vocal - check out
+Billy Brooks; Eric Peter; Tete Montoliu Trio	A Tot Jazz!	14	2011	2025-01-17 18:58:47	= Instrumental - check out
+Björk	Debut	11	1993	2025-09-21 21:48:04	> Vocal - check out
+Booker T.	I Want You (Expanded Version)	10	2013	2025-09-09 18:46:14	> Vocal - check out
+Booker T.	Sound The Alarm	12	2013	2025-09-09 18:46:25	> Vocal - check out
+Booker T. & Priscilla	Chronicles	9	1973	2025-09-09 18:48:43	> Vocal - check out
+Booker T. Jones	Note By Note	11	2019	2025-09-09 18:41:22	> Vocal - check out
+Buddy Emmons; Shot Jackson	The Steel Guitar And Dobro Sounds Of Shot Jackson And Buddy Emmons	13	2005	2025-12-12 19:05:45	= Instrumental - check out
+Buster Williams	Dreams Come True	6	1980	2025-09-29 18:42:26	= Instrumental - check out
+Cat Anderson	Wild Onions	7	2018	2025-10-01 20:33:28	= Instrumental - check out
+Catalyst	The Funkiest Band You Never Heard	24	2009	2025-09-24 14:56:04	= Instrumental - check out
+Charles "Packy" Axton	Late Late Party (1965-67)	10	2011	2025-12-05 15:52:24	> Vocal - check out
+Charles Bradley	Victim of Love	11	2013	2025-12-05 21:28:13	> Vocal - check out
+Chet Baker	Chet Baker & Crew (Expanded Edition)	14	2003	2026-01-16 16:56:48	= Instrumental - check out
+Chocolateclay	Chocolateclay	8	2008	2026-01-16 17:03:07	> Vocal - check out
+Combo Lulo	Neotropic Dream	9	2021	2025-11-20 16:55:26	# Latin - check out
+Cornell Dupree	Teasin'	8	1974	2025-09-26 18:40:24	= Instrumental - check out
+Daniel Villarreal	Panamá 77	12	2022	2025-12-19 16:00:14	= Instrumental - check out
+Deniece Williams	This Is Niecy (Expanded Edition)	10	1976	2025-09-04 18:45:23	> Vocal - check out
+Derya Yıldırım & Grup Şimşek	Yarın Yoksa	11	2025	2025-09-26 11:35:51	> Vocal - check out
+Dick Vennik; Eric Ineke; Rob van den Broeck	Free Fair	4	1978	2024-10-10 13:43:54	= Instrumental - check out
+Eero Koivistoinen Quartet	Jazz-Liisa 13 - Live at Liisankatu Studios, Helsinki, September 18th 1974	5	2017	2024-10-10 16:06:28	= Instrumental - check out
+El Chicano	Revolución	10	1971	2025-11-20 18:14:07	# Latin - check out
+Eric Andersen; Jonas Fjeld; Rick Danko	One More Shot	28	2002	2025-09-15 14:24:54	> Vocal - check out
+Erlend Øye; La Comitiva	La Comitiva	13	2024	2025-09-29 17:31:25	> Vocal - check out
+Francis Bebey	African Electronic Music 1975 - 1982	14	2012	2025-12-10 16:24:10	> Vocal - check out
+Gap Mangione	Sing Along Junk	12	1972	2025-12-02 20:55:43	= Instrumental - check out
+Georgia Soul Council	Thickens Upon Standing	13	2013	2025-09-02 15:37:35	= Instrumental - check out
+Glasgow Tiki Shakers	Blue Transporter	12	2018	2025-08-21 20:39:40	surf - check out
+Grachan Moncur III	Some Other Stuff (Remastered 2009 / Rudy Van Gelder Edition)	4	1965	2025-12-18 16:44:33	= Instrumental - check out
+Grupo Siglo XX de Rioja	Te Lo Pido... Por Dios	12	1979	2025-11-18 20:37:02	# Chicha - check out
+Hangtown	Tales from the Gun	10	2022	2025-08-21 20:39:33	surf - check out
+Hannah Williams; The Tastemakers	A Hill of Feathers	10	2012	2025-09-22 13:53:04	> Vocal - check out
+Henry Franklin	The Skipper	6	1972	2024-12-03 21:45:45	= Instrumental - check out
+Highway Superstar	Contraband	10	2021	2025-09-11 17:45:02	> Vocal - check out
+Hilton C. Felton Jr.	My Mother's Prayer	10	1972	2024-09-03 14:23:20	= Instrumental - check out
+Isabel	It Is That Deep	5	2025	2025-11-21 16:38:32	# Latin - check out
+James Cleveland	Peace Be Still	9	1962	2025-11-20 20:29:37	> Vocal - check out
+James Patrick Taylor	The Hustle	19	2004	2025-12-02 19:06:30	= Instrumental - check out
+Jenny Conlee	Tides: Pieces For Accordion And Piano	12	2023	2025-10-14 17:50:37	= Instrumental - check out
+Jenny Conlee; Steve Drizos	French Kayaking Music	17	2015	2025-10-14 17:50:39	= Instrumental - check out
+Jimmy Wisner Trio	Apperception	10	2012	2025-11-12 20:57:07	= Instrumental - check out
+Joe Bataan	SalSoul	10	1973	2025-11-20 17:08:26	# Latin - check out
+Joe Morello	Another Step Forward	10	1971	2025-10-07 19:21:20	= Instrumental - check out
+John Coltrane; Johnny Hartman	John Coltrane And Johnny Hartman	6	1963	2025-10-07 19:02:55	> Vocal - check out
+Jon & Vangelis	Short Stories (Remastered)	10	1980	2025-11-20 19:44:29	> Vocal - check out
+Kendra Foster	Kendra Foster	11	2016	2025-11-06 19:56:28	> Vocal - check out
+Krzysztof Sadowski	Krzysztof Sadowski and His Hammond Organ (Polish Jazz vol. 21)	8	1970	2024-10-22 18:58:55	= Instrumental - check out
+L.T.D.	Love To The World	7	1976	2025-12-02 16:59:10	> Vocal - check out
+LaBelle	Nightbirds	10	1974	2025-12-02 16:57:52	> Vocal - check out
+Lalo Schifrin	The Dissection And Reconstruction Of Music From The Past As Performed By The Inmates Of Lalo Schifrin's Demented Ensemble As A Tribute To The Memory Of The Marquis De Sade	10	1966	2025-10-28 21:21:15	= Instrumental - check out
+Linda Ronstadt	Canciones de mi Padre (Deluxe Edition)	14	2022	2025-12-01 15:57:51	# Latin - check out
+Los 5 Palomillas	Las Travesuras de los 5 Palomillas	12	2025	2025-11-18 20:34:20	# Chicha - check out
+Los Avileños	Romance Avileño	12	1971	2025-11-18 20:34:20	# Chicha - check out
+Los Blue King's de Ñaña	Los Blue Kings (En Vivo)	14	2022	2025-11-18 20:38:16	# Chicha - check out
+Los Blue Kings de Ñaña	Éxitos	11	1981	2025-11-18 20:34:20	# Chicha - check out
+Los Casmeños	La Sensual Música de los Casmeños	14	1970	2025-11-18 20:44:38	# Chicha - check out
+Los Cubanos; Marc Ribot	Y Los Cubanos Postizos	10	1998	2025-11-19 13:58:56	# Latin - check out
+Los Demonios de Corocochay	Vol. 1	13	1967	2025-11-18 20:34:20	# Chicha - check out
+Los Ecos	Ven y goza esta cumbia	12	1973	2025-11-18 20:41:58	# Chicha - check out
+Los Girasoles	La Bocina	11	1972	2025-11-18 20:34:20	# Chicha - check out
+Los Girasoles	La Mancha del Manchado	11	1971	2025-11-18 20:42:57	# Chicha - check out
+Los Orientales de Paramonga	Lo Fuerte Del Gua Gua	9	1981	2025-11-18 20:34:20	# Chicha - check out
+Los Tranquilos	Te Quiero y Te Extraño/Tu Eres	2	2025	2025-11-21 16:38:01	# Latin - check out
+Los Tranquilos	Todo Tranquis	3	2024	2025-11-21 16:38:03	# Latin - check out
+Lost Generation	Young, Tough And Terrible	11	1972	2025-12-12 19:10:14	> Vocal - check out
+M.E.B.; Miles Davis	That You Not Dare To Forget	5	2023	2025-10-01 18:01:08	= Instrumental - check out
+Malo	Malo	6	1972	2025-11-20 18:05:59	# Latin - check out
+Mandré	Mandré	9	1977	2025-12-02 20:53:40	> Vocal - check out
+Màquina	Why?	6	1971	2025-11-19 14:09:59	# Latin - check out
+Mayer Hawthorne	A Strange Arrangement	12	2009	2025-12-10 17:11:21	> Vocal - check out
+Mel Tormé; The Marty Paich Dek-tette	Mel Tormé with the Marty Paich Dek-Tette (Remastered 2013)	12	2014	2025-12-10 20:31:40	> Vocal - check out
+Men in Grey Suits	Village Eater	10	2020	2025-08-21 20:39:12	surf - check out
+Messer Chups	Crazy Price	16	2007	2025-08-22 16:43:27	surf - check out
+Miami	The Party Freaks	9	2012	2026-01-16 17:03:07	> Vocal - check out
+Millie Jackson	Millie Jackson	21	1972	2025-10-06 16:55:56	> Vocal - check out
+Miramar	Dedication to Sylvia Rexach	10	2016	2025-11-21 14:24:24	# Latin - check out
+Monk Higgins	Extra Soul Perception	12	1968	2025-12-02 17:03:01	= Instrumental - check out
+Mort Garson	Mother Earth's Plantasia	10	2019	2026-01-16 16:57:20	= Instrumental - check out
+Natalie Cole	Inseparable	10	1975	2025-11-21 18:05:46	> Vocal - check out
+Nina Simone	Nina Simone Sings The Blues (Expanded Edition)	13	1967	2025-11-20 20:25:58	> Vocal - check out
+Noa Sainz	MAYDAY! EP	7	2020	2025-11-21 15:21:42	# Latin - check out
+ORI; Zoe Polanski	Gravity	4	2020	2025-09-11 17:44:28	> Vocal - check out
+Paco Zambrano y sus Ratones	Paco Zambrano y Sus Ratones	12	1974	2025-11-18 20:34:20	# Chicha - check out
+Pearl Earl	It's Dread	10	2023	2025-12-10 20:11:47	> Vocal - check out
+Pierpont & Helgeson	Of Time	9	2025	2025-10-28 21:08:17	= Instrumental - check out
+Pierre Dutour	Brass (Edited)	16	2022	2024-10-16 18:23:40	= Instrumental - check out
+Raw Soul Express	Raw Soul Express	8	2008	2026-01-16 17:03:07	> Vocal - check out
+Ray Draper Quintet	The Ray Draper Quintet Featuring John Coltrane (Reissue)	6	1998	2025-09-10 19:21:53	= Instrumental - check out
+Rich Hinman vs Adam Levy	Fan Favorites	9	2024	2025-12-12 19:03:39	= Instrumental - check out
+Rick Wakeman	Yessonata	2	2024	2024-11-15 14:34:45	= Instrumental - check out
+Ryo Kawasaki	エイト・マイル・ロード	5	1976	2024-08-09 11:05:46	= Instrumental - check out
+Sam Morrison	Natural Layers	6	1977	2025-12-18 16:34:41	= Instrumental - check out
+Sambrasa Trio	Em Som Maior	11	2018	2025-11-20 19:51:37	= Instrumental - check out
+Scott Brown/David Schlossberg	Far Out Exchange	10	2020	2023-09-07 18:00:17	= Instrumental - check out
+Shrimp Chaperone	Trilobite Weekend	11	2012	2025-08-21 20:39:12	surf - check out
+SOAK	Grim Town	15	2019	2025-12-05 21:27:16	> Vocal - check out
+SOAK	Grim Town	15	2019	2025-12-05 21:27:16	> Vocal - check out
+Sonido 2000	Sonido 2000 de Tarapoto	78	2018	2025-11-18 20:34:20	# Chicha - check out
+Surf Zombies	Lust for Rust	19	2012	2025-08-21 20:39:56	surf - check out
+Terry Gibbs Quartet	Take It From Me	8	1964	2025-09-15 14:13:05	= Instrumental - check out
+Terumasa Hino	スピーク・トゥ・ロンリンネス	3	1975	2025-09-22 13:24:53	= Instrumental - check out
+The "J.F.K" Quintet	New Jazz Frontiers From Washington	8	1999	2025-10-02 14:24:01	= Instrumental - check out
+The 427's	Mavericks	11	2015	2025-08-21 20:39:12	surf - check out
+The Apaches	Musica Surfica Vol I & II	11	2016	2025-08-21 20:39:47	surf - check out
+The Burney Sisters	Only Living	5	2025	2025-10-28 21:08:38	> Vocal - check out
+The Del-Vipers	Terror of the Del-Vipers (2023 Remaster)	14	2014	2025-08-21 20:39:12	surf - check out
+The Exciters	Potpourri	8	1972	2025-11-20 16:42:08	# Latin - check out
+The Fathoms	Overboard	14	1998	2025-08-22 16:33:00	surf - check out
+The Link Quartet	Italian Playboys	14	2007	2025-09-03 14:52:08	= Instrumental - check out
+The Longboards	9 Surf Shots	9	2017	2025-08-21 20:40:04	surf - check out
+The Love Unlimited Orchestra	Rhapsody In White (Reissue)	8	1974	2025-09-21 21:44:59	= Instrumental - check out
+The Magnetic North	Orkney: Symphony of the Magnetic North	12	2012	2025-12-10 21:01:24	> Vocal - check out
+The Main Ingredient	Afrodisiac	10	1973	2025-12-10 16:54:02	> Vocal - check out
+The O'Jays	Back Stabbers	10	1972	2025-12-02 17:03:15	> Vocal - check out
+The RH Factor	Hard Groove	14	2003	2025-10-15 17:51:36	= Instrumental - check out
+The Roy Meriwether Trio	The Stone Truth	10	1966	2025-09-15 14:15:08	= Instrumental - check out
+The SongBirds	Dreamers Dream On	10	2022	2025-10-06 13:47:53	> Vocal - check out
+The Sons Of Champlin	Welcome to the Dance	7	1973	2025-12-10 20:14:35	> Vocal - check out
+The Space Cossacks	Interstellar Stomp	15	1998	2025-08-22 16:33:09	surf - check out
+The Spiratones	Sunworshipper	11	2021	2025-08-21 20:39:12	surf - check out
+The Stylistics	The Stylistics - The Original Debut Album	9	1973	2025-12-02 19:07:10	> Vocal - check out
+The Surf Trio	Moxie and More	21	2000	2025-08-22 16:32:39	surf - check out
+The Temprees	Love Maze	10	1973	2025-12-10 19:57:58	> Vocal - check out
+The Ventures	Walk Don't Run	12	1960	2025-12-11 16:18:31	= Instrumental - check out
+Tommy Mcgee	Positive - Negative	8	2016	2025-12-10 17:19:02	> Vocal - check out
+Trio Beyond	Saudades	11	2006	2024-10-17 14:46:43	= Instrumental - check out
+Unisono Quartet	Jazz-Liisa 1 - Live on Air 1973	4	2016	2024-09-09 16:56:42	= Instrumental - check out
+Various Artists	Chicha Magnífica	20	1974	2025-11-18 20:34:10	# Chicha - check out
+Various Artists	La Locura de Machuca (1975-1980) [Analog Africa No. 30]	17	2020	2025-12-19 16:08:52	# Latin - check out
+Various Artists	Lo Mejor de los Paracaidistas	19	2025	2025-11-28 17:52:19	# Latin - check out
+Various Artists	Palenque Palenque: Champeta Criolla & Afro Roots in Colombia 1975-91	21	2009	2025-12-19 16:13:25	# Latin - check out
+Various Artists	Surf Rally for Cali - Fire Relief, Pt. 1	27	2025	2025-12-19 15:54:40	= Instrumental - check out
+Various Artists	Thai Beat A Go-Go Vol. 3	18	2005	2025-12-05 21:26:52	> Vocal - check out
+Various Artists	Tropicalísimo: Clásicos de Cumbia Peruana	16	2017	2025-11-18 20:34:10	# Chicha - check out
+Webster Lewis	The Club 7 Live Tapes	15	1971	2025-09-08 14:31:03	= Instrumental - check out
+Wganda Kenya	Wganda Kenya	9	1976	2025-12-19 16:11:21	# Latin - check out
+White Heat	White Heat	8	1975	2025-12-02 20:56:38	> Vocal - check out
+Wolfgang Valbrun	Flawed by Design	10	2024	2025-09-22 13:34:17	> Vocal - check out
+Zak and the Krakens	Zak and the Krakens	8	2019	2025-08-21 20:39:12	surf - check out
