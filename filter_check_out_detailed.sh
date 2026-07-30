@@ -3,7 +3,7 @@ set -euo pipefail
 
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 INPUT_FILE="$SCRIPT_DIR/albums/all_albums_sorted.tsv"
-OUTPUT_FILE="$SCRIPT_DIR/albums/check_out_detailed.txt"
+OUTPUT_FILE="$SCRIPT_DIR/albums/check_out_detailed.tsv"
 
 # Reset output file.
 : > "$OUTPUT_FILE"
